@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [34.4.0](https://github.com/material-theme/vsc-material-theme/compare/v34.3.1...v34.4.0) (2024-06-12)
+
+
+### Bug Fixes
+
+* peekView background ([22ec38f](https://github.com/material-theme/vsc-material-theme/commit/22ec38f877512228fd69a77423a3f33c6fea2b73)), closes [#1297](https://github.com/material-theme/vsc-material-theme/issues/1297)
+
 ### [34.3.1](https://github.com/material-theme/vsc-material-theme/compare/v34.3.0...v34.3.1) (2023-12-10)
 
 
