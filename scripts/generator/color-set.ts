@@ -485,10 +485,10 @@ export const getColorSet = (theme: ThemeSetting): IColorSet => {
       * Peekview window style
       */
       'peekView.border': theme.scheme.shadow,
-      'peekViewEditor.background': `${theme.scheme.foreground}05`,
-      'peekViewTitle.background': `${theme.scheme.foreground}05`,
-      'peekViewResult.background': `${theme.scheme.foreground}05`,
-      'peekViewEditorGutter.background': `${theme.scheme.foreground}05`,
+      'peekViewEditor.background': `${theme.scheme.inputBackground}`,
+      'peekViewTitle.background': `${theme.scheme.inputBackground}`,
+      'peekViewResult.background': `${theme.scheme.inputBackground}`,
+      'peekViewEditorGutter.background': `${theme.scheme.inputBackground}`,
       'peekViewTitleDescription.foreground': `${theme.scheme.foreground}60`,
       'peekViewResult.matchHighlightBackground': theme.scheme.selection,
       'peekViewEditor.matchHighlightBackground': theme.scheme.selection,
