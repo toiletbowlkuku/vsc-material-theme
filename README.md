@@ -1,3 +1,7 @@
+> [!IMPORTANT]
+> Notes from [Anthony](https://github.com/antfu): This fork contains the latest commits of https://github.com/material-theme/vsc-material-theme before they **decided to override the repo and remove all the commits**. I am holding this fork only to preserve the history, it will keep as-is and I would not do any maintainance. The repo is archived to avoid confusion. Feel free to fork.
+
+-----
 
 # Material Theme [<img src="https://rawcdn.githack.com/material-theme/vsc-material-theme/790fc5d2872f10d5a903f449c90c1fa1502d7e53/logo.png" alt="Material Theme" width="90" height="90" align="right">](https://material-theme.site/)
 >Original colors, original taste.
