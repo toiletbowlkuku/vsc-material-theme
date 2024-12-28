@@ -1,3 +1,6 @@
+> [!CAUTION]
+> Notes from [Ortrun](https://github.com/toiletbowlkuku): This theme is fucking trash but I'm saving a copy because of the creator's shitty attitude.
+
 > [!IMPORTANT]
 > Notes from [Anthony](https://github.com/antfu): This fork contains the latest commits of https://github.com/material-theme/vsc-material-theme before they **decided to override the repo and remove all the commits**. I am holding this fork only to preserve the history, it will keep as-is and I would not do any maintainance. The repo is archived to avoid confusion. Feel free to fork.
 
